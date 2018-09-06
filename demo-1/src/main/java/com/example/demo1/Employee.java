@@ -7,8 +7,8 @@ public class Employee {
 	public String getName() {
 		return name;
 	}
-	public void setName(String names) {
-		this.name = names;
+	public void setName(String name) {
+		this.name = name;
 	}
 	public Integer getAge() {
 		return age;
